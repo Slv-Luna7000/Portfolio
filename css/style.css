@@ -305,6 +305,7 @@ body{
 }
 .modal-body .content span{
     font-size: 1rem;
+  background-color: #255afc;
 }
 .modal-body .content small{
     font-size: 1rem;
@@ -312,7 +313,7 @@ body{
 }
 /* contact section starts */
 .contact{
-    background-color: #080aa5 grey;
+    background-color:gray;
 }
 .contact-details i{
     font-size: 1.5rem;
@@ -329,6 +330,7 @@ body{
 .contact-form .form-control{
     padding: 10px 10px;
     width: 80%;
+  background-color:;
 }
 
 /* footer section starts */
